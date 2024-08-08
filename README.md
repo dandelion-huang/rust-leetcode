@@ -13,3 +13,7 @@ Solving Leetcode problems with Rust.
 ## Problem Categories
 
 -   [Huahua's Leetcode Problem List](https://zxi.mytechroad.com/blog/leetcode-problem-categories/)
+
+## Problem List
+
+-   [1. Two Sum `Easy`](./src/p0001_p1000/p1/two_sum.rs)
